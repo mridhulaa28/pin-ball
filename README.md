@@ -6,7 +6,7 @@ The PinBall Game is an interactive arcade-style game that simulates a pinball ma
 ### Features
 
 ***Game Elements:*** Includes a ball, a paddle, and borders to create the playing area.<br>
-**Scoring System:*** Players earn points by bouncing the ball off the paddle and preventing it from falling.<br>
+***Scoring System:*** Players earn points by bouncing the ball off the paddle and preventing it from falling.<br>
 ***Paddle Control:*** Move the paddle left and right to keep the ball in play.<br>
 ***Color-Changing Ball***: The ball changes color after each bounce on the paddle.<br>
 ***Increasing Difficulty***: The ball speeds up after each bounce, making the game progressively harder.<br>
