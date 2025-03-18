@@ -1,6 +1,6 @@
 ## PinBall Game<br>
 📌 **Overview**<br>
-The PinBall Game is an interactive arcade-style game that simulates a pinball machine. Players control a paddle to bounce a ball, score points, and increase difficulty as they progress. The game is designed to provide entertainment and a challenge by testing reflexes and precision.<br>
+The PinBall Game is an interactive arcade-style game that simulates a pinball machine. Players control a paddle to bounce a ball, score points, and increase difficulty as they progress.<br>
 
 ✨ **Features**<br>
 ✔ 🎱 **Game Elements**: Includes a ball, a paddle, and borders to create the playing area.<br>
